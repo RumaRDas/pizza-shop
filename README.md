@@ -1,3 +1,7 @@
 # PIZZA SHOP
 
-## With React and typescript.
+## React
+
+## TypeScript
+
+## Webpack
